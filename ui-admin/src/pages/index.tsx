@@ -88,7 +88,7 @@ export default function Home({fileNames}) {
         name: "Employee Name: ",
         value: "Sako M.",
       });
-      md.push({ name: "Position name: ", value: "Staff Software Engineer" });
+      md.push({ name: "Position name: ", value: "ENGINEERING MANAGER" });
       md.push({
         name: "Team Name: ",
         value: "Platform Team",
